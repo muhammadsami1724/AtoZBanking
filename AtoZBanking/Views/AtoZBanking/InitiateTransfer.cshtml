@@ -1,0 +1,41 @@
+﻿@model AtoZBanking.Models.Transactions
+@{
+    ViewData["Title"] = "Initiate Transfer";
+}
+
+
+@using (Html.BeginForm("InitiateTransfer", "AtoZBanking", FormMethod.Post))
+{
+    <h1>Transfer Funds</h1>
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <table>
+        <tr>
+            <td>From Account</td>
+            <td>To Account</td>
+            <td>Amount to Transfer</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>@Html.DropDownListFor(a => a.FromAccount, new SelectList(ViewBag.Accounts, "AccountId", "AccountName"))</td>
+            <td>@Html.DropDownListFor(a => a.ToAccount, new SelectList(ViewBag.Accounts, "AccountId", "AccountName"))</td>
+            <td>@Html.TextBoxFor(a => a.AmountDebited)</td>
+            <td>
+                <input type="submit" value="Transfer" />
+            </td>
+        </tr>
+    </table>
+
+
+}
+
+@if (ViewBag.alert != null)
+{
+    <script type="text/javascript">
+            window.onload = function () {
+                alert("@ViewBag.alert");
+            };
+    </script>
+}
+
+
+

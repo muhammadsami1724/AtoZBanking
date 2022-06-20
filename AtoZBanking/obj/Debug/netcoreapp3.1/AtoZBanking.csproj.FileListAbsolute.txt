@@ -1,0 +1,274 @@
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\appsettings.json
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\AtoZBanking.exe
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.csprojAssemblyReference.cache
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.RazorAssemblyInfo.cache
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.RazorAssemblyInfo.cs
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.AssemblyInfoInputs.cache
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.AssemblyInfo.cs
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.TagHelpers.input.cache
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.TagHelpers.output.cache
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.RazorCoreGenerate.cache
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.RazorTargetAssemblyInfo.cache
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.RazorTargetAssemblyInfo.cs
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\staticwebassets\AtoZBanking.StaticWebAssets.Manifest.cache
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\staticwebassets\AtoZBanking.StaticWebAssets.xml
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\AtoZBanking.deps.json
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\AtoZBanking.runtimeconfig.json
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\AtoZBanking.runtimeconfig.dev.json
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\AtoZBanking.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\AtoZBanking.pdb
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\AtoZBanking.Views.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\AtoZBanking.Views.pdb
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.Views.pdb
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.csproj.CopyComplete
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.dll
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.pdb
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.genruntimeconfig.cache
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\AtoZBanking\Accounts.cshtml.g.cs
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\AtoZBanking\Home.cshtml.g.cs
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\AtoZBanking\InitiateTransfer.cshtml.g.cs
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\AtoZBanking\TransactionDetails.cshtml.g.cs
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\AtoZBanking\Delete.cshtml.g.cs
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\AtoZBanking\Details.cshtml.g.cs
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\AtoZBanking\Edit.cshtml.g.cs
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.csproj.CoreCompileInputs.cache
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.MvcApplicationPartsAssemblyInfo.cache
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\AtoZBanking\Create.cshtml.g.cs
+E:\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\AtoZBanking\Privacy.cshtml.g.cs
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\AtoZBanking.exe
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\AtoZBanking.deps.json
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\AtoZBanking.runtimeconfig.json
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\AtoZBanking.runtimeconfig.dev.json
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\AtoZBanking.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\AtoZBanking.pdb
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\AtoZBanking.Views.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\AtoZBanking.Views.pdb
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.csprojAssemblyReference.cache
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.AssemblyInfoInputs.cache
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.AssemblyInfo.cs
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.csproj.CoreCompileInputs.cache
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.RazorAssemblyInfo.cache
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.RazorAssemblyInfo.cs
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\staticwebassets\AtoZBanking.StaticWebAssets.Manifest.cache
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\staticwebassets\AtoZBanking.StaticWebAssets.xml
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\scopedcss\bundle\AtoZBanking.styles.css
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.TagHelpers.input.cache
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.TagHelpers.output.cache
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.RazorCoreGenerate.cache
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\AtoZBanking\Accounts.cshtml.g.cs
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\AtoZBanking\Create.cshtml.g.cs
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\AtoZBanking\Delete.cshtml.g.cs
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\AtoZBanking\Details.cshtml.g.cs
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\AtoZBanking\Edit.cshtml.g.cs
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\AtoZBanking\Home.cshtml.g.cs
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\AtoZBanking\InitiateTransfer.cshtml.g.cs
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\AtoZBanking\Privacy.cshtml.g.cs
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\AtoZBanking\TransactionDetails.cshtml.g.cs
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.RazorTargetAssemblyInfo.cache
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.RazorTargetAssemblyInfo.cs
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.Views.pdb
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.csproj.CopyComplete
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.dll
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.pdb
+C:\Users\Aadil Desai\Desktop\Projects\AtoZBanking\AtoZBanking\AtoZBanking\obj\Debug\netcoreapp3.1\AtoZBanking.genruntimeconfig.cache

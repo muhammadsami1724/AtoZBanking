@@ -1,0 +1,29 @@
+﻿@model AtoZBanking.Models.Accounts
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+@using (Html.BeginForm("Details", "AtoZBanking", new { Id = @Model.AccountId }, FormMethod.Post))
+{
+    <h1>Account Details</h1>
+
+    <table class="table table-bordered table-responsive table-hover">
+        <tr>
+            <td>@Html.LabelFor(a => a.AccountName)</td>
+            <td>@Html.DisplayFor(a => a.AccountName)</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.Balance)</td>
+            <td>@Html.DisplayFor(a => a.Balance)</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                @Html.ActionLink("Back to List", "Accounts", "AtoZBanking")
+            </td>
+            <td></td>
+        </tr>
+    </table>
+}
+

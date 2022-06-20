@@ -1,0 +1,40 @@
+﻿@model IEnumerable<AtoZBanking.Models.Transactions>
+@{
+    ViewData["Title"] = "Transaction Details";
+}
+
+<h1>All Transactions</h1>
+
+<table class="table table-bordered table-responsive table-hover">
+    <tr>
+        <th>From Account</th>
+        <th>To Account</th>
+        <th>Transaction Time</th>
+        <th>Amount Debited</th>
+        <th>From Account Balance</th>
+        <th>To Account Balance</th>
+    </tr>
+    @foreach (var d in Model)
+    {
+        <tr>
+            <td>@d.FromAccount</td>
+            <td>@d.ToAccount</td>
+            <td>@d.TransactionDate</td>
+            <td>@d.AmountDebited</td>
+            <td>@d.FromAccountBalance</td>
+            <td>@d.ToAccountBalance</td>
+        </tr>
+    }
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
+        @Html.ActionLink("Back to List", "Home", "AtoZBanking")
+    </td>
+</tr>
+</table>
+

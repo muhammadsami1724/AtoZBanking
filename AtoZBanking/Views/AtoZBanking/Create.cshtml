@@ -1,0 +1,40 @@
+﻿@model AtoZBanking.Models.Accounts
+@{
+    ViewData["Title"] = "Create";
+}
+
+@using (Html.BeginForm("Create", "AtoZBanking", FormMethod.Post))
+{
+    <h1>Create Account</h1>
+
+    <table>
+        <tr>
+            <td>@Html.LabelFor(a => a.AccountName)</td>
+            <td>@Html.TextBoxFor(a => a.AccountName)</td>
+            <td>@Html.ValidationMessageFor(a => a.AccountName)</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.Balance)</td>
+            <td>@Html.TextBoxFor(a => a.Balance)</td>
+            <td>@Html.ValidationMessageFor(a => a.Balance)</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <input type="submit" value="Create" />
+                @Html.ActionLink("Back to List", "Accounts", "AtoZBanking")
+            </td>
+            <td></td>
+        </tr>
+    </table>
+}
+
+@if (ViewBag.alert != null)
+{
+    <script type="text/javascript">
+            window.onload = function () {
+                alert("@ViewBag.alert");
+            };
+    </script>
+}
+

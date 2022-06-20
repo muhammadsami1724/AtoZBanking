@@ -1,0 +1,34 @@
+﻿@model IEnumerable<AtoZBanking.Models.Accounts>
+@{
+    ViewData["Title"] = "Accounts";
+}
+
+@using (Html.BeginForm("Accounts", "AtoZBanking", FormMethod.Post))
+{
+    @Html.ActionLink("Create New", "Create", "AtoZBanking")
+    <table class="table table-bordered table-responsive table-hover">
+        <tr>
+            <th>Account Name</th>
+            <th>Balance</th>
+            <th>Action</th>
+        </tr>
+        @foreach (var d in Model)
+        {
+            <tr>
+                <td>@d.AccountName</td>
+                <td>@d.Balance</td>
+                <td>@Html.ActionLink("Edit", "Edit", "AtoZBanking", new { AccountId = d.AccountId }) | @Html.ActionLink("Details", "Details", "AtoZBanking", new { AccountId = d.AccountId }) | @Html.ActionLink("Delete", "Delete", "AtoZBanking", new { AccountId = d.AccountId })</td>
+            </tr>
+
+        }
+    </table>
+}
+@if (ViewBag.alert != null)
+{
+    <script type="text/javascript">
+            window.onload = function () {
+                alert("@ViewBag.alert");
+            };
+    </script>
+}
+
